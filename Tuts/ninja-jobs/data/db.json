@@ -1,0 +1,9 @@
+{
+    "jobs":[
+                {"title": "Ninja UX Designer","id":1,"uuid":"wewe-erer-erer", "details":"Lorem"},
+                {"title": "Ninja Web Development","id":2,"uuid":"wewe-erer-erer12", "details":"Lorem"},
+                {"title": "Ninja Vue Developer","id":3,"uuid":"wewe-erer-erer34", "details":"Lorem"},
+                {"title": "Ninja Singer","id":4,"uuid":"wewe-erer-erer456", "details":"Lorem"}
+    ],
+    "blogs":[]
+}
